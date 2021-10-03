@@ -1,0 +1,12 @@
+LETZELTER Victor - BESSON Hugo - CORTES Adrien
+
+Nos livrables se segment en plusieurs dossiers et fichiers. 
+
+- Le fichier coord-tracker.xlsx contient les coordonnéees suivant X et Y des 25 particules pointées l'aide du logiciel Particle tracker. Le fichier est associé au code analyse_experience.R dans lequel nous détaillons le calcul du nombre d'Avogadro, la vérification des hypotèses du mouvement Brownien, et les simulations réalisées. Ces documents sont placés dans le dossier Experience_historique.
+
+- Le code Prediction.R (Annexe Rch) qui a permis de réaliser la simulation donnée en Figure Pred située dans le dossier Simulation.
+
+- Le code Volatilite_hist.R (Annexe VT), qui moyennant le cours d'un actif donné, permet d'afficher l'évolution de la volatilité temporelle sur une fenêtre au choix. On pourra tester le code l'aide du cours AMZN.csv fourni également. A titre indicatif, nous fournissons le cours de d'autres actifs dans le dossier Finance.
+
+- Le rapport technique : Rapport_protech.pdf
+
