@@ -6,7 +6,7 @@ Nos livrables se segment en plusieurs dossiers et fichiers.
 
 - Le code Prediction.R (Annexe Rch) qui a permis de réaliser la simulation donnée en Figure Pred située dans le dossier Simulation.
 
-- Le code Volatilite_hist.R (Annexe VT), qui moyennant le cours d'un actif donné, permet d'afficher l'évolution de la volatilité temporelle sur une fenêtre au choix. On pourra tester le code l'aide du cours AMZN.csv fourni également. A titre indicatif, nous fournissons le cours de d'autres actifs dans le dossier Finance.
+- Le code Volatilite_hist.R (Annexe VT), qui moyennant le cours d'un actif donné, permet d'afficher l'évolution de la volatilité temporelle sur une fenêtre au choix. On pourra tester le code l'aide du cours AMZN.csv fourni également. 
 
 - Le rapport technique : Rapport_protech.pdf
 

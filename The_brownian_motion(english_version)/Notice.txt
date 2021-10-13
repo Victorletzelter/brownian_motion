@@ -1,0 +1,12 @@
+LETZELTER Victor - BESSON Hugo - CORTES Adrien
+
+Our deliverables are divided into several folders and files. 
+
+- The coord-tracker.xlsx file contains the X and Y coordinates of the 25 particles pointed using the Particle tracker software. The file is associated with the code analyse_experience.R in which we detail the calculation of the Avogadro number, the verification of the Brownian motion assumptions, and the simulations performed. These documents are placed in the Experience_history folder.
+
+- The Prediction.R code (Appendix Rch) which allowed the simulation given in Figure Pred to be carried out is located in the Simulation folder.
+
+- The code Volatility_hist.R (Appendix VT), which, by means of the price of a given asset, displays the evolution of the temporal volatility on a window of your choice. The code can be tested using the AMZN.csv file also provided. 
+
+- The technical report: Rapport(English).pdf
+
