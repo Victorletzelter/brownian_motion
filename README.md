@@ -18,11 +18,11 @@ L'estimation la tendance, la volatilité historique et implicite associée à un
 
 This project has been realised in cooperation with two students : Hugo BESSON and Adrien CORTES. 
 
-We tried to understand the analogy between the Brownian Motion used in physics, and the geometric Brownian used in financial mathematics. For those who are interested in the field, we provide you with our technical report. 
+In this project, we tried to understand the analogy between the Brownian Motion used in physics, and the geometric Brownian used in financial mathematics. The associated technical report of the project is given in the The_brownian_motion(english_version) folder: "Report(English).pdf".
 
 The idea is as follows: the trajectory of a large particle immersed in a fluid made up of much smaller particles will be governed by random and decorrelated collisions between them, just like that of a financial asset, whose value will vary according to the successive purchases and sales made on the market. These two trajectories are special cases of random process trajectories called Itô processes, which we detail in our report.
 
-In particular, we discuss :
+In particular, we discussed about:
 
 The historical experiment performed by Robert Brown in 1827 that we have reproduced to calculate Avogadro's number.
 How the heat equation can predict the trajectory of a Brownian motion.
