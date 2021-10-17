@@ -8,5 +8,7 @@ Our deliverables are divided into several folders and files.
 
 - The code Volatility_hist.R (Appendix VT), which, by means of the price of a given asset, displays the evolution of the temporal volatility on a window of your choice. The code can be tested using the AMZN.csv file also provided. 
 
+- The support of an oral presentation made with other student, about the use of Brownian motion in insect ecology (See the folder Presentation).  
+
 - The technical report: Rapport(English).pdf
 

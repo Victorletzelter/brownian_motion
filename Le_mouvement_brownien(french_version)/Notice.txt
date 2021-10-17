@@ -8,5 +8,7 @@ Nos livrables se segment en plusieurs dossiers et fichiers.
 
 - Le code Volatilite_hist.R (Annexe VT), qui moyennant le cours d'un actif donné, permet d'afficher l'évolution de la volatilité temporelle sur une fenêtre au choix. On pourra tester le code l'aide du cours AMZN.csv fourni également. 
 
+- Le support d'une présentation orale réalisée avec d'autres étudiants dans laquelle j'évoque comment le mouvement brownien est utilisé dans les études entomologistes (voir le dossier Presentation). 
+
 - Le rapport technique : Rapport_protech.pdf
 
