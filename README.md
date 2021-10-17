@@ -28,4 +28,9 @@ L'estimation la tendance, la volatilité historique et implicite associée à un
 
 ---
 
+Here is a view of the Brownian motion we observed in our experiment (the contrast of the image was emphasized):
+
 ![](sample1.gif)
+*Observation of a Brownian Motion*
+
+
