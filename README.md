@@ -25,3 +25,5 @@ The idea is as follows: the trajectory of a large particle immersed in a fluid m
 In particular, we discussed about:
 
 The historical experiment performed by Robert Brown in 1827 that we have reproduced to calculate Avogadro's number. How the heat equation can predict the trajectory of a Brownian motion. The estimation of the trend, historical and implied volatility associated with an underlying asset that we have done using the Black-Scholes model (codes in Python and R Studio).
+
+![](sample.mov)
