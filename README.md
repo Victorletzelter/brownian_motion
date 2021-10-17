@@ -1,6 +1,6 @@
 # brownian_motion
 
-(English version Below)
+(French version Below)
 
 This project has been realised in cooperation with two students : Hugo BESSON and Adrien CORTES.
 
@@ -28,4 +28,4 @@ L'estimation la tendance, la volatilité historique et implicite associée à un
 
 ---
 
-![](sample1.mov)
+![](sample1.gif)
